@@ -1,0 +1,10 @@
+[project]
+name = "rag-search-doc"
+version = "0.1.0"
+description = "RAG Search Notebook using OpenAI, ChromaDB, and Sentence Transformers"
+dependencies = [
+    "chromadb>=1.0.15",
+    "openai>=1.98.0",
+    "python-dotenv>=1.1.1",
+    "sentence-transformers>=5.0.0",
+]
