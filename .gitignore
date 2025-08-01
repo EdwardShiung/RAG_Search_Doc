@@ -12,3 +12,6 @@ __pycache__/
 
 # uv lock file (optional, remove if you want to share exact versions)
 uv.lock
+
+# doc.md
+doc.md
